@@ -1,3 +1,6 @@
-# practice_code
-This file has some practice methods related to strings,
-easy way to recall some methods
+# Python Practice Code
+
+Learning Python from scratch.
+
+## Author
+Murlidhar Mohite | Aspiring Gen AI Engineer | 
